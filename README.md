@@ -6,7 +6,7 @@
 - Galimybė tvarkyti puslapyje atvaizduojamų galerijų turinį.
 
 ### Prisijungimas prie administratoriaus aplinkos
-- Norint naudotis įdiegtomis naujovėmis būtina visų pirma prisijungti prie puslapio administratoriaus aplinkos. ** Reikia atlikti tik porą žingsnių:**
+- Norint naudotis įdiegtomis naujovėmis būtina visų pirma prisijungti prie puslapio administratoriaus aplinkos. **Reikia atlikti tik porą žingsnių:**
 1. Adresų juostoje prie svetainės adreso prirašyti ```/backend```.
 2. Atsidariusiame lange suvesti prisijungimo duomenis.
 
