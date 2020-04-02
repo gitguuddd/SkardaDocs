@@ -16,11 +16,11 @@
 ### Tiesioginis tekstinio turinio keitimas
 - Kadangi administratoriaus aplinka tiesiogiai nedalyvauja redaguojant puslapio tekstinį turinį, užtenka tik prie jos prisijungti norint iš sistemos gauti visus redagavimui reikiamus leidimus.
 
-- Po prisijungimo prie administratoriaus aplinkos svetainės puslapiuose atsiras specialios ikonėlės. Spustelėjus šias ikonėles atidaroma turinio redagavimo aplinka.
-
-![](Screenshot_14.png)
+- Po prisijungimo prie administratoriaus aplinkos, svetainės puslapiuose atsiras specialios ikonėlės. Spustelėjus šias ikonėles atidaroma turinio redagavimo aplinka.
 
 - Pasirinkus norimą tekstą iki šiol tuščia įrankių juosta užsipildo įrankiais, kurių pagalba galima redaguoti pasirinktą teksto lauką.
+
+![](Screenshot_14.png)
 
 - Baigus puslapio redagavimą tereikia nuspausti žalią varnelės ikonėlę, kad būtų įsaugoti visi atlikti pakeitimai.
 
@@ -35,10 +35,6 @@
 
 ![](Screenshot_20.png)
 
-- Į atidarytą galeriją nuotraukos pridedamos paspaudus ```Upload``` mygtuką. Sąraše pasirinktą nuotrauką galima ištrinti spustelėjus šiukšliadėžės ikonėlę
-
-![](Screenshot_21.png)
-
 | Aplankalo pavadinimas     | Kas saugoma                                          |
 |---------------------------|------------------------------------------------------|
 | main-gallery              | Pagridiniame puslapyje esančios galerijos nuotraukos |
@@ -52,6 +48,9 @@
 | fences-from-tinplate      | Tvorų iš skardos nuotraukos                          |
 | metal-sheet-roofs         | Skardos stogų nuotraukos                             |
 
+- Į atidarytą galeriją nuotraukos pridedamos paspaudus ```Upload``` mygtuką. Sąraše pasirinktą nuotrauką galima ištrinti spustelėjus šiukšliadėžės ikonėlę
+
+![](Screenshot_21.png)
 
 ### Pastabos
 - Į galeriją keliamos nuotraukos **PRIVALO** būti vienodo pločio ir ilgio (pikseliais). Keliant nevienodo dydžio nuotraukas išsikraipys galerijos.
