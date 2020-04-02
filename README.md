@@ -22,6 +22,9 @@
 
 - Baigus puslapio redagavimą tereikia nuspausti žalios varnelės ikonėlę, kad būtų įsaugoti visi atlikti pakeitimai.
 
+![](Screenshot_14.png)
+![](Screenshot_15.png)
+
 ### Galerijų turinio keitimas
 - Galerijų turinio keitimo aplinka pasiekiama administratoriaus aplinkoje spustelėjus ant ```Media``` ikonėlės.
 
@@ -41,6 +44,10 @@
 | decorations-for-hangars   | Apdailos angarams nuotraukos                         |
 | fences-from-tinplate      | Tvorų iš skardos nuotraukos                          |
 | metal-sheet-roofs         | Skardos stogų nuotraukos                             |
+
+![](Screenshot_19.png)
+![](Screenshot_20.png)
+![](Screenshot_21.png)
 
 ### Pastabos
 - Į galeriją keliamos nuotraukos **PRIVALO** būti vienodo pločio ir ilgio (pikseliais). Keliant nevienodo dydžio nuotraukas išsikraipys galerijos.
