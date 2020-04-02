@@ -48,10 +48,11 @@
 | fences-from-tinplate      | Tvorų iš skardos nuotraukos                          |
 | metal-sheet-roofs         | Skardos stogų nuotraukos                             |
 
-- Į atidarytą galeriją nuotraukos pridedamos paspaudus ```Upload``` mygtuką. Sąraše pasirinktą nuotrauką galima ištrinti spustelėjus šiukšliadėžės ikonėlę
+- Į atidarytą galeriją nuotraukos pridedamos paspaudus ```Upload``` mygtuką. Sąraše pasirinktą nuotrauką galima ištrinti spustelėjus šiukšliadėžės ikonėlę.
 
 ![](Screenshot_21.png)
 
 ### Pastabos
 - Į galeriją keliamos nuotraukos **PRIVALO** būti vienodo pločio ir ilgio (pikseliais). Keliant nevienodo dydžio nuotraukas išsikraipys galerijos.
-- Keliamos nuotraukos dydžio limitas - 2 MB **(pakolkas)**
+- Keliamos nuotraukos dydžio limitas - 2 MB **(pakolkas)**.
+- Dabartinis galerijų turinys atitinka pagrindinės svetainės turinį - visos galerijos identiškos išskyrus tvorų galeriją. Išmestos tik tos nuotraukos kurios neatitinka vienodų matmenų sąlygos arba yra didesnės nei 2 MB.
