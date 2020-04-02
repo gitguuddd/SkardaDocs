@@ -8,9 +8,9 @@
 ### Prisijungimas prie administratoriaus aplinkos
 - Norint naudotis įdiegtomis naujovėmis būtina visų pirma prisijungti prie puslapio administratoriaus aplinkos. **Reikia atlikti tik porą žingsnių:**
 1. Adresų juostoje prie svetainės adreso prirašyti ```/backend```.
+![](Screenshot_12.png)
 2. Atsidariusiame lange suvesti prisijungimo duomenis.
 
-![](Screenshot_12.png)
 ![](Screenshot_13.png)
 
 ### Tiesioginis tekstinio turinio keitimas
@@ -18,19 +18,26 @@
 
 - Po prisijungimo prie administratoriaus aplinkos svetainės puslapiuose atsiras specialios ikonėlės. Spustelėjus šias ikonėles atidaroma turinio redagavimo aplinka.
 
+![](Screenshot_14.png)
+
 - Pasirinkus norimą tekstą iki šiol tuščia įrankių juosta užsipildo įrankiais, kurių pagalba galima redaguoti pasirinktą teksto lauką.
 
-- Baigus puslapio redagavimą tereikia nuspausti žalios varnelės ikonėlę, kad būtų įsaugoti visi atlikti pakeitimai.
+- Baigus puslapio redagavimą tereikia nuspausti žalią varnelės ikonėlę, kad būtų įsaugoti visi atlikti pakeitimai.
 
-![](Screenshot_14.png)
 ![](Screenshot_15.png)
 
 ### Galerijų turinio keitimas
 - Galerijų turinio keitimo aplinka pasiekiama administratoriaus aplinkoje spustelėjus ant ```Media``` ikonėlės.
 
+![](Screenshot_19.png)
+
 - Atsidariusiame puslapyje rodomos visos puslapio galerijos ir kiti paveiksliukai. Žemiau pateiktoje lentelėje vaizduojami galerijų pavadinimai ir paaiškinimai kas jose saugoma.
 
+![](Screenshot_20.png)
+
 - Į atidarytą galeriją nuotraukos pridedamos paspaudus ```Upload``` mygtuką. Sąraše pasirinktą nuotrauką galima ištrinti spustelėjus šiukšliadėžės ikonėlę
+
+![](Screenshot_21.png)
 
 | Aplankalo pavadinimas     | Kas saugoma                                          |
 |---------------------------|------------------------------------------------------|
@@ -45,9 +52,6 @@
 | fences-from-tinplate      | Tvorų iš skardos nuotraukos                          |
 | metal-sheet-roofs         | Skardos stogų nuotraukos                             |
 
-![](Screenshot_19.png)
-![](Screenshot_20.png)
-![](Screenshot_21.png)
 
 ### Pastabos
 - Į galeriją keliamos nuotraukos **PRIVALO** būti vienodo pločio ir ilgio (pikseliais). Keliant nevienodo dydžio nuotraukas išsikraipys galerijos.
