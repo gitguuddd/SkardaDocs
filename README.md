@@ -10,8 +10,8 @@
 1. Adresų juostoje prie svetainės adreso prirašyti ```/backend```.
 2. Atsidariusiame lange suvesti prisijungimo duomenis.
 
-![](Screenshoot_12.png)
-![](Screenshoot_13.png)
+![](Screenshot_12.png)
+![](Screenshot_13.png)
 
 ### Tiesioginis tekstinio turinio keitimas
 - Kadangi administratoriaus aplinka tiesiogiai nedalyvauja redaguojant puslapio tekstinį turinį, užtenka tik prie jos prisijungti norint iš sistemos gauti visus redagavimui reikiamus leidimus.
@@ -21,9 +21,6 @@
 - Pasirinkus norimą tekstą iki šiol tuščia įrankių juosta užsipildo įrankiais, kurių pagalba galima redaguoti pasirinktą teksto lauką.
 
 - Baigus puslapio redagavimą tereikia nuspausti žalios varnelės ikonėlę, kad būtų įsaugoti visi atlikti pakeitimai.
-
-![](Screenshot_13.png)
-![](Screenshot_14.png)
 
 ### Galerijų turinio keitimas
 - Galerijų turinio keitimo aplinka pasiekiama administratoriaus aplinkoje spustelėjus ant ```Media``` ikonėlės.
