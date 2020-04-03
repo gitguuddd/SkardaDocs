@@ -54,5 +54,4 @@
 
 ### Pastabos
 - Į galeriją keliamos nuotraukos **PRIVALO** būti vienodo pločio ir ilgio (pikseliais). Keliant nevienodo dydžio nuotraukas išsikraipys galerijos.
-- Keliamos nuotraukos dydžio limitas - 2 MB **(pakolkas)**.
-- Dabartinis galerijų turinys atitinka pagrindinės svetainės turinį - visos galerijos identiškos išskyrus tvorų galeriją. Išmestos tik tos nuotraukos kurios neatitinka vienodų matmenų sąlygos arba yra didesnės nei 2 MB.
+- Dabartinis galerijų turinys atitinka pagrindinės svetainės turinį - visos galerijos identiškos išskyrus tvorų galeriją. Išmestos tik tos nuotraukos kurios neatitinka vienodų matmenų sąlygos.
