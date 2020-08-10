@@ -1,5 +1,5 @@
 ### SkardosProjektai.lt turinio valdymo dokumentacija
-- Šioje dokumentacijoje pateikiamos instrukcijos kaip naudotis October CMS teikiamomis naujovėmis siekiant patogiai keisti SkardosProjektai.lt puslapio turinį.
+- Šioje dokumentacijoje pateikiamos instrukcijos kaip naudotis October CMS teikiamomis naujovėmis siekiant patogiai keisti puslapio turinį.
 
 ### Įdiegtos naujovės
 - Galimybė tiesiogiai keisti puslapio tekstinį turinį nesigilinant į kodą.
